@@ -43,7 +43,7 @@ _G.Settings = {
     ["No Clothes"] = false,
     ["Low Water Graphics"] = true, 
     ["No Shadows"] = true,
-    ["Low Rendering"] = true,
+    ["Low Rendering"] = false,
     ["Low Quality Parts"] = true 
 }
  _G.SendNotifications = false
